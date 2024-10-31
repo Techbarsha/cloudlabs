@@ -1,0 +1,41 @@
+# Automatically Deploy Python Web Apps from Version Control to Cloud Run | [GSP1204](https://www.cloudskillsboost.google/focuses/80415?parent=catalog)
+
+---
+### ⚠️ Disclaimer
+- **This script and guide are provided for  the educational purposes to help you understand the lab services and boost your career. Before using the script, please open and review it to familiarize yourself with Google Cloud services. Ensure that you follow 'Qwiklabs' terms of service and YouTube’s community guidelines. The goal is to enhance your learning experience, not to bypass it.**
+---
+
+# Follow the instructions
+
+# If you consider that the video helped you to complete your lab, so please do like and subscribe [Edutech Barsha](https://www.youtube.com/@edutechbarsha)
+## Solution [here](https://youtu.be/Fg3N5NcWKuU)
+
+### Run the following Commands in CloudShell
+
+**Launch Cloud Shell:**
+Start your Google CloudShell session by [clicking here](https://console.cloud.google.com/home/dashboard?project=&pli=1&cloudshell=true).
+
+```
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Automatically%20Deploy%20Python%20Web%20Apps%20from%20Version%20Control%20to%20Cloud%20Run/task1.sh
+sudo chmod +x task1.sh
+./task1.sh
+```
+- *This command downloads the setup script from GitHub. The script will help configure the environment and perform necessary setup steps*
+
+>[Now Follow the Video]
+
+
+```
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Automatically%20Deploy%20Python%20Web%20Apps%20from%20Version%20Control%20to%20Cloud%20Run/task2.sh
+sudo chmod +x task2.sh
+./task2.sh
+```
+
+
+### Congratulations 🎉 for completing the Lab !😄
+
+##### *You Have Successfully Demonstrated Your Skills And Determination.*
+
+#### *Well done!*
+
+# Thanks For Watching:)
