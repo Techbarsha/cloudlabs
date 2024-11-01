@@ -16,11 +16,11 @@
 export USER_2=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20IAM%20Qwik%20Start/GSP064.sh
+curl -LO raw.githubusercontent.com/Techbarsha/cloudlabs/refs/heads/main/Cloud%20IAM%3A%20Qwik%20Start/gsp064.sh
 
-sudo chmod +x GSP064.sh
+sudo chmod +x gsp064.sh
 
-./GSP064.sh
+./gsp064.sh
 ```
 
 ### Congratulations 🎉 for completing the Lab !😄
