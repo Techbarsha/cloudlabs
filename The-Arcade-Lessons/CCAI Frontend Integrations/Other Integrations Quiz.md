@@ -21,7 +21,7 @@
 1. 🟢 **Chat with a virtual agent**  
 2. ⚪ **Export sessions to CCAI Insights**  
 3. ⚪ **Agent Assist**  
-4. 🟢 **Contextual handoff to a human agent**  
+4. ⚪ **Contextual handoff to a human agent**  
 
 ---
 
