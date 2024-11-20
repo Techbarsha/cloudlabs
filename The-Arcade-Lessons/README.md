@@ -26,7 +26,7 @@ This repository is your ultimate guide to mastering **Arcade Classroom** concept
 
 ## 📸 **Arcade Classroom in Action**  
 
-![Arcade Classroom Banner]([https://i.ibb.co/7ktFPF8/Screenshot-2024-11-19-at-1-37-05-PM.png](https://github.com/Techbarsha/cloudlabs/blob/main/The-Arcade-Lessons/arcade%20lesson.png))  
+![Arcade Classroom Banner](https://github.com/Techbarsha/cloudlabs/blob/main/The-Arcade-Lessons/arcade%20lesson.png)  
 
 ---
 
