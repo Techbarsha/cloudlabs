@@ -1,4 +1,5 @@
 # 🌐 **Introduction to Webhooks Quiz**  
+📋 **Passing Score: 66%**
 ### By [EduTech Barsha](https://www.youtube.com/@edutechbarsha)  
 
 ---
