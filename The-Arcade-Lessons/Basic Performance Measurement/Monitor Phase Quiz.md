@@ -6,7 +6,7 @@
 ### **Question 1:**  
 **When dealing with failures, what is the motto to remember?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Don't worry, be happy.**  
 2. ⚪ **Don't dwell on failure, focus on solutions.**  
 3. 🟢 **Hope is not a strategy.**  
@@ -17,7 +17,7 @@
 ### **Question 2:**  
 **Which of the following is not a common method for detecting performance issues?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. 🟢 **Predictive Modeling**  
 2. ⚪ **Thresholds**  
 3. ⚪ **Standard deviations**  
@@ -28,7 +28,7 @@
 ### **Question 3:**  
 **When deploying new features in the agent, which step is most important?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. 🟢 **Establish what will be measured post implementation.**  
 2. ⚪ **Use a matrix assessing the perceived difficulty of the problem.**  
 3. ⚪ **Review the logical and physical designs.**  
