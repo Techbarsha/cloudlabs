@@ -6,7 +6,7 @@
 ### **Question 1:**  
 **Which option below is likely to have high-impact opportunities in which you can refine and enhance your conversational agent?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. 🟢 **High traffic flows and pages.**  
 2. ⚪ **Looping on a low traffic page.**  
 3. ⚪ **Escalations due to user request.**  
@@ -17,7 +17,7 @@
 ### **Question 2:**  
 **Select the phase that focuses on initial metric-driven exploration of data.**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Understand**  
 2. ⚪ **Identity**  
 3. ⚪ **Enhance**  
@@ -28,7 +28,7 @@
 ### **Question 3:**  
 **What is the primary purpose of analyzing performance data?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **To troubleshoot issues with webhooks.**  
 2. 🟢 **To understand overall customer behavior and identify areas for improvement.**  
 3. ⚪ **To determine why end users request to be escalated to live agents.**  
