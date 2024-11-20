@@ -7,7 +7,7 @@
 ### **Question 1:**  
 **You are tasked with understanding specific API failures for payments. Which dashboard would you start at?**
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Conversation History**  
 2. ⚪ **Intent Launch**  
 3. ⚪ **Webhook Performance**  
@@ -18,7 +18,7 @@
 ### **Question 2:**  
 **Which dashboard allows for head intent comparisons for overall metrics?**
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Webhook Performance**  
 2. ⚪ **Conversation History**  
 3. 🟢 **Intent Launch**  
@@ -29,7 +29,7 @@
 ### **Question 3:**  
 **Which dashboard within a conversational agent would more likely focus on viewing groups of user and agent responses?**
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Agent Transition**  
 2. ⚪ **Intent Launch**  
 3. ⚪ **Webhook Performance**  
