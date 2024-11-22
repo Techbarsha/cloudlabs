@@ -1,5 +1,5 @@
 # **Differences Between Chat and Voice Conversations Quiz**  
-📋 **Passing Score: 66%**  
+📋 **Passing Score: 80%**  
 ### **By [EduTech Barsha](https://www.youtube.com/@edutechbarsha)**  
 ---
 
