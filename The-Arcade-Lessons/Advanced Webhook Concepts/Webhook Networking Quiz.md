@@ -6,7 +6,7 @@
 ### **Question 1:**  
 **What network strategies can you use to restrict connections further?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Using a class C IP for the private endpoint.**  
 2. 🟢 **Using a private endpoint within VPC-SC perimeters.**  
 3. ⚪ **Using the same project of GCP for Dialogflow and the webhooks.**  
@@ -17,7 +17,7 @@
 ### **Question 2:**  
 **What service do you need to enable to allow fully private serverless webhooks?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **L7 VPN**  
 2. ⚪ **VPC-SC**  
 3. ⚪ **Cloud Armor**  
@@ -28,7 +28,7 @@
 ### **Question 3:**  
 **What are minimum requirements for a publicly accessible Webhook?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Listens on port 80 and 443, accepts connection from a Google IP, DNS record can be publicly resolved.**  
 2. 🟢 **Listens on port 443, accepts connection from a Google IP, DNS record can be publicly resolved.**  
 3. ⚪ **Accepts connection from a Google IP, and requires authentication.**  
