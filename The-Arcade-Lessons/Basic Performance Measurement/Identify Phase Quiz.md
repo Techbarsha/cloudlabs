@@ -6,7 +6,7 @@
 ### **Question 1:**  
 **What two dimensions can be used to rank optimizations for the virtual agent?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Specificity and popularity**  
 2. ⚪ **Frequency and cost**  
 3. 🟢 **Difficulty and Impact**  
@@ -17,7 +17,7 @@
 ### **Question 2:**  
 **Which of the following is not an explicit step in a root-causing problem-solving framework?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Monitor and measure outcomes.**  
 2. ⚪ **Create a problem statement.**  
 3. 🟢 **Conduct brainstorming with no data.**  
@@ -28,7 +28,7 @@
 ### **Question 3:**  
 **Optimizations that have large impacts typically have which of the following attributes?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Minimal reliance on external systems**  
 2. ⚪ **Low complexity**  
 3. 🟢 **High traffic flows and pages**  
