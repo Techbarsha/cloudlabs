@@ -8,7 +8,7 @@
 ### **Question 1:**  
 **Which dashboard product most easily integrates to query the Dialogflow CX Log Data?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **PowerBI**  
 2. ⚪ **Tableau**  
 3. 🟢 **Looker Studio**  
@@ -19,7 +19,7 @@
 ### **Question 2:**  
 **What is the main benefit of using the Python Dialogflow CX Scripting API (DFCX SCRAPI)?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **It helps you search across all Flows/Pages/Routes to find a specific parameter or utterance.**  
 2. ⚪ **It allows you to have fully automated conversations with a CX agent.**  
 3. 🟢 **It makes using DFCX easier, more friendly, and more pythonic for virtual agent builders, developers, and maintainers.**  
@@ -30,7 +30,7 @@
 ### **Question 3:**  
 **What is Colaboratory (Colab) used for?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **None of these are uses for Colab.**  
 2. ⚪ **To collaborate on documents**  
 3. 🟢 **To write and execute Python code through the browser**  
