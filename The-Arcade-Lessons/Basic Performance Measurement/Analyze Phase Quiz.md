@@ -6,7 +6,7 @@
 ### **Question 1:**  
 **Which of the following enhancements can be used to address intent escalations in a conversational AI system?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Define user intents more clearly.**  
 2. ⚪ **Improve natural language processing (NLP) capabilities.**  
 3. 🟢 **All of the above.**  
@@ -17,7 +17,7 @@
 ### **Question 2:**  
 **What is the first step in the process of enacting effective optimization?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Consider feasibility.**  
 2. ⚪ **Analyze risks/trade-offs.**  
 3. ⚪ **Seek expert input.**  
@@ -28,7 +28,7 @@
 ### **Question 3:**  
 **Which metric measures the percentage of customers who leave their self-service attempt?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Escalation rate.**  
 2. 🟢 **Abandonment rate.**  
 3. ⚪ **Error rate.**  
