@@ -6,7 +6,7 @@
 ### **Question 1:**  
 **What are two of the main considerations to have when retrying a webhook?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Bandwidth and availability**  
 2. ⚪ **Availability and Latency**  
 3. ⚪ **Loops and bandwidth**  
@@ -17,7 +17,7 @@
 ### **Question 2:**  
 **What considerations should you have when taking an alternative path?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Make sure to mention that an error has occurred.**  
 2. 🟢 **Guide the customer step by step and provide handover if needed.**  
 3. ⚪ **Retry the webhook again in the alternative path.**  
@@ -28,7 +28,7 @@
 ### **Question 3:**  
 **What types of webhook errors can you consider retrying?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **Webhook Not Found**  
 2. ⚪ **All of the above**  
 3. 🟢 **Webhook Timeout**  
