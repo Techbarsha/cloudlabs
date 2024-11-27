@@ -7,7 +7,7 @@
 ### **Question 1:**  
 **Why do we need to have different considerations around latency from voice channels to chat channels?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. 🟢 **In voice channels, it is not possible to use UI elements to illustrate a delay in the answer, making it seem like the call might have a problem.**  
 2. ⚪ **Chat channels are more prone to delays.**  
 3. ⚪ **Not needed to have different considerations since the webhook behavior is the same.**  
@@ -20,7 +20,7 @@
 
 ![IMAGE](https://cdn.qwiklabs.com/sbMqZRdYwdpZxegrQgoaCMZf7BlnExmhkw%2FMVXh%2BWdQ%3D)
 
-✅ **Options:**  
+🟢 **Options:**  
 1. 🟢 **Long running webhook call**  
 2. ⚪ **Optimization for BigQuery connection**  
 3. ⚪ **Generic pathway for webhook calls with security**  
@@ -31,7 +31,7 @@
 ### **Question 3:**  
 **When do you use the partial responses feature?**  
 
-✅ **Options:**  
+🟢 **Options:**  
 1. ⚪ **When you only have part of the response available.**  
 2. ⚪ **To provide immediate feedback during a webhook call failure.**  
 3. ⚪ **To set a list of responses that will be used randomly when prompting customers.**  
