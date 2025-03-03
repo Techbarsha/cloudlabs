@@ -1,4 +1,4 @@
-#  Google Sheets: Getting Started | [GSP49](https://www.cloudskillsboost.google/focuses/5828?parent=catalog) |
+#  Google Sheets: Getting Started | [GSP449](https://www.cloudskillsboost.google/focuses/5828?parent=catalog) |
 
 ---
 ### ⚠️ Disclaimer
