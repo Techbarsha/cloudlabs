@@ -24,7 +24,6 @@
 ---
 
 
-
 ### Congratulations 🎉 for completing the Lab !😄
 
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
