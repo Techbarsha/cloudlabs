@@ -16,7 +16,7 @@
 
 ---
 
-## 🚨 Download the below 2 files:
+##  Download the below 2 files:
 
 -  **Exported Data File [Click here!](https://github.com/Techbarsha/cloudlabs/blob/main/Google%20Sheets%3A%20Getting%20Started/exported-data.csv)**
 
