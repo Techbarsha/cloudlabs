@@ -20,7 +20,7 @@
 
 -  **Exported Data File [Click here!](https://github.com/Techbarsha/cloudlabs/blob/main/Google%20Sheets%3A%20Getting%20Started/exported-data.csv)**
 
--  **Important Data [Click here!](https://github.com/Techcps/GSP-Short-Trick/blob/main/Google%20Sheets%20Getting%20Started/important-data.xlsx)**
+-  **Important Data [Click here!](https://github.com/Techbarsha/cloudlabs/blob/main/Google%20Sheets%3A%20Getting%20Started/important-data.xlsx)**
 
 ---
 
