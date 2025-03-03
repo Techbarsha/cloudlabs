@@ -12,8 +12,8 @@
 
 ---
 
-##  - Open a sample spreadsheet [Explore this data](https://docs.google.com/spreadsheets/d/19iLO-XbrqqWRuqphkXTax0lFn71NW6crJK504JvAxoU/edit#gid=599358521)
-##  - Open Google Drive in a new browser tab [Click here](https://drive.google.com/)
+##  - **Open a sample spreadsheet [Explore this data](https://docs.google.com/spreadsheets/d/19iLO-XbrqqWRuqphkXTax0lFn71NW6crJK504JvAxoU/edit#gid=599358521)**
+##  - **Open Google Drive in a new browser tab [Click here](https://drive.google.com/)**
 ---
 
 ##  Download the below 2 files:
