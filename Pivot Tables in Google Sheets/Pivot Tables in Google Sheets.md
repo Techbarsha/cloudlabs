@@ -7,7 +7,7 @@
 # Follow the instructions
 
 # If you consider that the video helped you to complete your lab, so please do like and subscribe [Edutech Barsha](https://www.youtube.com/@edutechbarsha)
-## Solution [here](https://youtu.be/dacrtDtdmzc)
+## Solution [here](https://youtu.be/gM028w9GmYw)
 
 1. In the top left, under Start a new spreadsheet, click + to open a blank spreadsheet in a new browser tab.
 
