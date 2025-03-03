@@ -12,9 +12,9 @@
 ## Solution [here](https://youtu.be/gM028w9GmYw)
 
 
-### ⚠️ Download the below file
+### 💡 Download the below file
 
-- 💡 **Open this link and download the file [Click Here](https://github.com/Techcps/GSP-Short-Trick/blob/main/Validate%20Data%20in%20Google%20Sheets/techcps1062.xlsx)**
+-  **Open this link and Download the file [Click Here](https://github.com/Techbarsha/cloudlabs/blob/main/Validate%20Data%20in%20Google%20Sheets/gcp1062.xlsx)**
   
 ---
 
