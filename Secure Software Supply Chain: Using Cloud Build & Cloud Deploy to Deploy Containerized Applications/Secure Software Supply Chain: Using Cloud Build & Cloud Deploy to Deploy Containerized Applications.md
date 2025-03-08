@@ -12,9 +12,9 @@
 
 ## Copy and paste on Google CloudShell:
 ```
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Secure%20Software%20Supply%20Chain%20Using%20Cloud%20Build%20%26%20Cloud%20Deploy%20to%20Deploy%20Containerized%20Applications/quicklabgsp1092.sh
-sudo chmod +x quicklabgsp1092.sh
-./quicklabgsp1092.sh
+curl -LO raw.githubusercontent.com/Techbarsha/cloudlabs/refs/heads/main/Secure%20Software%20Supply%20Chain%3A%20Using%20Cloud%20Build%20%26%20Cloud%20Deploy%20to%20Deploy%20Containerized%20Applications/gsp1092.sh
+sudo chmod +x gsp1092.sh
+./gsp1092.sh
 ```
 ### Congratulations 🎉 for completing the Lab !😄
 
