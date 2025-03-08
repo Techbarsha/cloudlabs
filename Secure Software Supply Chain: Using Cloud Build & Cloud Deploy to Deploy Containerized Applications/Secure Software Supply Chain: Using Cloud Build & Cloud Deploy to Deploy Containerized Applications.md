@@ -1,4 +1,4 @@
-#  Google Sheets: Getting Started | [GSP449](https://www.cloudskillsboost.google/focuses/5828?parent=catalog) |
+#  Secure Software Supply Chain: Using Cloud Build & Cloud Deploy to Deploy Containerized Applications | [GSP1092](https://www.cloudskillsboost.google/focuses/50453?parent=catalog) |
 
 ---
 ### ⚠️ Disclaimer
