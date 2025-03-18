@@ -9,6 +9,11 @@
 # If you consider that the video helped you to complete your lab, so please do like and subscribe [Edutech Barsha](https://www.youtube.com/@edutechbarsha)
 ## Solution [here](https://youtu.be/7Nd0DiMGHg0)
 
+## Task 1. Create a view
+
+### First, on the bottom left of the Looker User Interface, click the toggle button to enter Development mode.
+![Development Mode](https://github.com/Techbarsha/cloudlabs/blob/main/Looker%20Developer%3A%20Qwik%20Start/devlop.png)
+
 ---
 
 - Create a View with Name **`users_limited`**.
@@ -49,6 +54,8 @@ view: users_limited {
   }
   }
 ```
+
+## Task 2. Join a view to an existing Explore
 
 - **`training_ecommerce.model`**
 
