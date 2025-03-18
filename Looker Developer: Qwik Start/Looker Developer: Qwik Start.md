@@ -1,4 +1,4 @@
-# Cloud Operations for GKE || [LAB](https://www.cloudskillsboost.google/focuses/5157?parent=catalog) ||
+# Looker Developer: Qwik Start || [GSP891](https://www.cloudskillsboost.google/focuses/18478?parent=catalog) ||
 
 ---
 ### ⚠️ Disclaimer
